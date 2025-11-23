@@ -1,4 +1,5 @@
 import copy
+from functools import lru_cache
 import os
 
 # Tokenizer based on rustbpe + tiktoken combo
