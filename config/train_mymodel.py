@@ -7,7 +7,7 @@
 
 wandb_log = True
 wandb_project = 'owt'
-wandb_run_name='mymodel-67M'
+wandb_run_name='mymodel-81M'
 
 init_from = 'resume'
 
