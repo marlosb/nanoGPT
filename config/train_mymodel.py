@@ -1,4 +1,4 @@
-# config for training mymodel (81M) down to very nice loss of ??? 
+# config for training mymodel (81M) down to loss of 1.90713
 # Ran 850,000 iterations on 1 node with 2x A100 40GB
 # Ran more 1,550,000 iterations on 1 node with 1x H100 95GB
 # For a total of 580B tokens (~ 3x 193B)
